@@ -11,6 +11,11 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 🏦 [Credit Risk Prediction — Machine Learning](https://github.com/Abuabrar09/Credit-Risk-Prediction)
+Built a model to predict loan defaults for **1,000 real applicants** using Random Forest with Bayesian Optimization (Optuna), and chose an approval threshold based on real business costs.
+**Finding:** Test ROC-AUC 0.814. The cost-optimal threshold catches **95% of defaulters** and **cuts lending losses by 48%**. [View on Kaggle](https://www.kaggle.com/code/abrarahmedsyed313/credit-risk-prediction)
+`Python` `scikit-learn` `Random Forest` `Optuna` `Responsible AI`
+
 ### 🛒 [US Retail Financial Statement Analysis](https://github.com/Abuabrar09/us-retail-financial-analysis)
 Compared **Walmart, Target and Costco** across 10 financial ratios from their income statements, balance sheets and cash flows.
 **Finding:** Costco ranks #1 on 7 of 10 ratios despite the lowest margins. It sells its inventory in 27 days vs 59 for Target.
@@ -38,4 +43,4 @@ Retail sales and profitability analysis using the Kaggle Sample Superstore datas
 
 ## 🚀 Currently Working On
 - AI-powered expense categorization
-- Credit risk prediction with machine learning
+
