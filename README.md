@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Abrar Ahmed Syed 👋
 
-<!--
-**Abuabrar09/Abuabrar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business & Financial Data Analyst | AI
 
-Here are some ideas to get you started:
+I turn business and financial data into clear decisions using **Python, SQL, Power BI and AI**.
+With hands-on experience running a retail and grocery business, I understand the numbers behind real-world operations: margins, inventory, cash flow and growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/abrar313/)
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 [US Retail Financial Statement Analysis](https://github.com/Abuabrar09/us-retail-financial-analysis)
+Compared **Walmart, Target and Costco** across 10 financial ratios from their income statements, balance sheets and cash flows.
+**Finding:** Costco ranks #1 on 7 of 10 ratios despite the lowest margins. It sells its inventory in 27 days vs 59 for Target.
+`Python` `pandas` `Financial Ratios` `yfinance`
+
+### 📈 [Indian Stock Market Analysis](https://github.com/Abuabrar09/Indian-stock-market-analysis)
+Analysed 5 years of returns, risk and correlation for **Reliance, TCS, HDFC Bank, Infosys and ICICI Bank** against the Nifty 50.
+**Finding:** ICICI Bank was the only stock to beat the index (16.2% per year) with the best risk-adjusted return.
+`Python` `pandas` `Risk Metrics` `Data Visualization`
+
+### 🏪 [Superstore Sales & Profitability Analysis](https://github.com/Abuabrar09/superstore-sales-profitability-analysis)
+Retail sales and profitability analysis using the Kaggle Sample Superstore dataset.
+`Python` `pandas` `Sales Analysis` `Kaggle`
+
+---
+
+## 🛠️ Skills
+**Analysis:** Python (pandas, NumPy) · SQL · Excel
+**Visualization:** Power BI · matplotlib · seaborn
+**Machine Learning:** scikit-learn · Random Forest · Bayesian Optimization
+**Finance:** Financial statement analysis · Ratio analysis · Risk & return metrics
+**Tools:** Google Colab · Jupyter · GitHub
+
+---
+
+## 🚀 Currently Working On
+- AI-powered expense categorization
+- Credit risk prediction with machine learning
