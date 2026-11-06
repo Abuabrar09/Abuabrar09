@@ -11,6 +11,11 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 🛒 [Texas Supermarket Retail Analytics](https://github.com/Abuabrar09/supermarket-retail-analytics)
+End-to-end analysis of 1.1M point-of-sale line items for a 5-store grocery chain: KPIs, RFM segmentation, cohort retention, market basket analysis, promotion ROI and SQL window functions.
+**Key finding:** ~80% of promotion weeks lost gross profit; at-risk loyalty members held 20% of member revenue.
+`Python` `pandas` `SQL` `Matplotlib` `Seaborn`
+
 ### 🏦 [Credit Risk Prediction — Machine Learning](https://github.com/Abuabrar09/Credit-Risk-Prediction)
 Built a model to predict loan defaults for **1,000 real applicants** using Random Forest with Bayesian Optimization (Optuna), and chose an approval threshold based on real business costs.
 **Finding:** Test ROC-AUC 0.814. The cost-optimal threshold catches **95% of defaulters** and **cuts lending losses by 48%**. [View on Kaggle](https://www.kaggle.com/code/abrarahmedsyed313/credit-risk-prediction)
