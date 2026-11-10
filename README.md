@@ -2,7 +2,7 @@
 
 ### Business & Financial Data Analyst | AI
 
-I turn business and financial data into clear decisions using **Python, SQL, Power BI and AI**.
+I turn business and financial data into clear decisions using **Python, SQL, Excel, Power BI, Tableau and AI**.
 With hands-on experience running a retail and grocery business, I understand the numbers behind real-world operations: margins, inventory, cash flow and growth.
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/abrar313/)
@@ -10,6 +10,9 @@ With hands-on experience running a retail and grocery business, I understand the
 ---
 
 ## 📂 Featured Projects
+
+### 🏪 [Retail Sales & Profitability Intelligence](https://github.com/Abuabrar09/retail-sales-profitability-analysis)
+End-to-end profitability analysis of an 18-store retail chain (133K transactions, 2024–2025): data cleaning, store and product P&L, loss-making products and discount effectiveness. **Key finding:** all 5 Express stores lose money, and fixing them would more than double operating profit; discounts equal 47% of gross profit with no increase in units sold. `SQL` `Python` `Excel` `Tableau` 📊 [Live interactive dashboard](https://public.tableau.com/views/RetailSalesProfitabilityDashboard_17942567393830/ExecutiveDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/retail-sales-profitability-analysis)
 
 ### 🛒 [Texas Supermarket Retail Analytics](https://github.com/Abuabrar09/supermarket-retail-analytics)
 End-to-end analysis of 1.1M point-of-sale line items for a 5-store grocery chain: KPIs, RFM segmentation, cohort retention, market basket analysis, promotion ROI and SQL window functions.
