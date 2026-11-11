@@ -11,6 +11,12 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 📊 [Executive Business Performance & KPI Intelligence](https://github.com/Abuabrar09/Executive-KPI-Intelligence)
+**SQL · Python · Power BI · DAX** | 1.5M+ rows of real Olist e-commerce data
+- Combined sales, finance and operations from 8 tables into one star schema and a 3-page Power BI report with drill-down filters
+- Found that late deliveries make bad reviews **6.6× more likely**, only **3%** of customers return, and the top 10% of sellers drive **67%** of revenue
+- 19 DAX measures (YoY growth, repeat rate, on-time %, contribution) validated against SQL
+
 ### 📦 [Inventory Optimization & Demand Forecasting](https://github.com/Abuabrar09/Inventory-Optimization-Forecasting)
 Demand forecasting and inventory policy for 10 stores × 50 items using 913K Kaggle sales records: backtested forecasts, ABC analysis, supplier lead-time risk, safety stock and reorder points. **Key finding:** a seasonal model forecast with 2.2% error (vs 13–17% for simple methods); $6.0M of stock (49%) sat in 8 overstocked items while 10 high-value items were about to run out. `SQL` `Python` `pandas` `DuckDB` `Tableau` 📊 [Live interactive dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/InventoryOptimizationDemandForecasting/InventoryDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/Inventory-Optimization-Forecasting)
 
