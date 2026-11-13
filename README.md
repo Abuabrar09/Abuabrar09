@@ -11,6 +11,10 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 🤖 [Generative AI Financial Reporting & BI Assistant](https://github.com/Abuabrar09/GenAI-Financial-Reporting-Assistant)
+
+Natural-language finance assistant on **3M real supermarket sales rows** (Kaggle Corporación Favorita, 54 stores): ask *"Why did operating profit decline?"* and get a grounded answer, chart, the SQL used, and an automated CFO summary. LLM text-to-SQL with read-only guardrails, a deterministic operating-profit bridge (volume, mix, markdowns, labor, logistics), pytest + GitHub Actions CI. **Key finding:** Q2 2017 revenue grew 2.9% vs Q1, yet operating profit fell 10.8% as promo markdowns and labor outpaced volume gains. `Python` `SQL` `LLM API` `Streamlit` `Plotly` 🚀 [Live demo](https://genai-finbi-abrar.streamlit.app) · 📓 [Code & write-up](https://github.com/Abuabrar09/GenAI-Financial-Reporting-Assistant)
+
 ### 📊 [Executive Business Performance & KPI Intelligence](https://github.com/Abuabrar09/Executive-KPI-Intelligence)
 **SQL · Python · Power BI · DAX** | 1.5M+ rows of real Olist e-commerce data
 - Combined sales, finance and operations from 8 tables into one star schema and a 3-page Power BI report with drill-down filters
