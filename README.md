@@ -11,6 +11,10 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 💳 [Accounts Receivable & Collection Performance Intelligence](https://github.com/Abuabrar09/AR-Collection-Performance-Intelligence)
+
+Receivables aging, overdue analysis, collection KPIs and late-payment prediction on **48,839 real B2B invoices** from 1,425 corporate customers (Kaggle HighRadius data). Point-in-time AR aging, DSO vs best possible DSO, CEI, bad-debt allowance, and a leakage-safe ML model scored on a time split. **Key finding:** 42% of paid invoices were paid late and the top 10 customers held 63% of past-due dollars; the gradient boosting model (ROC-AUC 0.84 vs 0.77 baseline) captures 47% of late dollars in the riskiest 20% of invoices and flags 2,559 high-risk unpaid invoices worth $95.1M. `SQL` `Python` `scikit-learn` `Tableau` 📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/ARCollectionPerformanceIntelligence/ARDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/AR-Collection-Performance-Intelligence)
+
 ### 🤖 [Generative AI Financial Reporting & BI Assistant](https://github.com/Abuabrar09/GenAI-Financial-Reporting-Assistant)
 
 Natural-language finance assistant on **3M real supermarket sales rows** (Kaggle Corporación Favorita, 54 stores): ask *"Why did operating profit decline?"* and get a grounded answer, chart, the SQL used, and an automated CFO summary. LLM text-to-SQL with read-only guardrails, a deterministic operating-profit bridge (volume, mix, markdowns, labor, logistics), pytest + GitHub Actions CI. **Key finding:** Q2 2017 revenue grew 2.9% vs Q1, yet operating profit fell 10.8% as promo markdowns and labor outpaced volume gains. `Python` `SQL` `LLM API` `Streamlit` `Plotly` 🚀 [Live demo](https://genai-finbi-abrar.streamlit.app) · 📓 [Code & write-up](https://github.com/Abuabrar09/GenAI-Financial-Reporting-Assistant)
