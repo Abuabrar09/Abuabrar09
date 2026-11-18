@@ -11,6 +11,10 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 👥 [Advanced Customer Analytics & Predictive Intelligence](https://github.com/Abuabrar09/Customer-Analytics-Predictive-Intelligence)
+
+RFM segmentation, customer lifetime value, churn prediction and a value-based retention plan on **2.6M real grocery transactions from 2,500 US households** (dunnhumby, Kaggle). SQL cohorts and RFM, a CLV model validated on held-out households, and a churn model tested out-of-time on a later period. **Key finding:** Champions are 29% of households but 61% of revenue; contacting the riskiest 20% reaches 66% of churners (vs 26% for a simple rule); and **targeting by value nets +$2,062 while a blanket offer to every high-risk household loses $409**. `SQL` `Python` `scikit-learn` `Tableau` 📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/CustomerIntelligenceDashboard_17948621753550/ChurnRiskActionPlan) · 📓 [Code & write-up](https://github.com/Abuabrar09/Customer-Analytics-Predictive-Intelligence)
+
 ### 💳 [Accounts Receivable & Collection Performance Intelligence](https://github.com/Abuabrar09/AR-Collection-Performance-Intelligence)
 
 Receivables aging, overdue analysis, collection KPIs and late-payment prediction on **48,839 real B2B invoices** from 1,425 corporate customers (Kaggle HighRadius data). Point-in-time AR aging, DSO vs best possible DSO, CEI, bad-debt allowance, and a leakage-safe ML model scored on a time split. **Key finding:** 42% of paid invoices were paid late and the top 10 customers held 63% of past-due dollars; the gradient boosting model (ROC-AUC 0.84 vs 0.77 baseline) captures 47% of late dollars in the riskiest 20% of invoices and flags 2,559 high-risk unpaid invoices worth $95.1M. `SQL` `Python` `scikit-learn` `Tableau` 📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/ARCollectionPerformanceIntelligence/ARDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/AR-Collection-Performance-Intelligence)
