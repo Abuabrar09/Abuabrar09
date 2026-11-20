@@ -39,6 +39,12 @@ Demand forecasting and inventory policy for 10 stores × 50 items using 913K Kag
 ### 🏪 [Retail Sales & Profitability Intelligence](https://github.com/Abuabrar09/retail-sales-profitability-analysis)
 End-to-end profitability analysis of an 18-store retail chain (133K transactions, 2024–2025): data cleaning, store and product P&L, loss-making products and discount effectiveness. **Key finding:** all 5 Express stores lose money, and fixing them would more than double operating profit; discounts equal 47% of gross profit with no increase in units sold. `SQL` `Python` `Excel` `Tableau` 📊 [Live interactive dashboard](https://public.tableau.com/views/RetailSalesProfitabilityDashboard_17942567393830/ExecutiveDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/retail-sales-profitability-analysis)
 
+### 🧺 [Market Basket & Product Association Analysis](https://github.com/Abuabrar09/Market-Basket-Analysis)
+Association rules (support, confidence, lift) on 49.5K grocery orders in the Instacart schema: pair rules in SQL, Apriori written from scratch in Python, and cross-sell ideas ranked by shoppers who bought A but not B.
+**Key finding:** the highest-lift pairs are mission purchases (baby care, pet food, household restocks, about 8–11× lift), but the biggest cross-sell audience is fresh produce; 3-item bundles reach 72% confidence.
+`SQL` `Python` `Apriori` `Tableau`
+📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/InstacartMarketBasketAnalysis_17951940099710/MarketBasketDashboard) · 📓 [Code & write-up](https://github.com/Abuabrar09/Market-Basket-Analysis)
+
 ### 🛒 [Texas Supermarket Retail Analytics](https://github.com/Abuabrar09/supermarket-retail-analytics)
 End-to-end analysis of 1.1M point-of-sale line items for a 5-store grocery chain: KPIs, RFM segmentation, cohort retention, market basket analysis, promotion ROI and SQL window functions.
 **Key finding:** ~80% of promotion weeks lost gross profit; at-risk loyalty members held 20% of member revenue.
