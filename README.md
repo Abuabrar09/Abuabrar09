@@ -11,6 +11,10 @@ With hands-on experience running a retail and grocery business, I understand the
 
 ## 📂 Featured Projects
 
+### 🚚 [Supply Chain Performance Analytics](https://github.com/Abuabrar09/Supply-Chain-Performance-Analytics)
+
+Supplier performance, delivery delays, fulfillment rates and freight costs on **10,324 real USAID health-commodity shipments** (2006–2015, $1.63B in value). Python cleaning of messy real-world data, a DuckDB SQL model with a weighted supplier scorecard (window functions), statistical tests (chi-square, Kruskal-Wallis, logistic regression) and 3 interactive Tableau dashboards. **Key finding:** 7 vendors hold 82% of spend and two of the largest ($131M combined) are in the at-risk tier; **direct-drop fulfillment beats the warehouse (94.7% vs 82.8% on time)**; and Air costs ~6× Ocean per kg ($10.02 vs $1.68) but is late about half as often. `SQL` `Python` `DuckDB` `Tableau` 📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/SupplyChainShipmentPricingData_17952087968890/ExecutiveOverview) · 📓 [Code & write-up](https://github.com/Abuabrar09/Supply-Chain-Performance-Analytics)
+
 ### 👥 [Advanced Customer Analytics & Predictive Intelligence](https://github.com/Abuabrar09/Customer-Analytics-Predictive-Intelligence)
 
 RFM segmentation, customer lifetime value, churn prediction and a value-based retention plan on **2.6M real grocery transactions from 2,500 US households** (dunnhumby, Kaggle). SQL cohorts and RFM, a CLV model validated on held-out households, and a churn model tested out-of-time on a later period. **Key finding:** Champions are 29% of households but 61% of revenue; contacting the riskiest 20% reaches 66% of churners (vs 26% for a simple rule); and **targeting by value nets +$2,062 while a blanket offer to every high-risk household loses $409**. `SQL` `Python` `scikit-learn` `Tableau` 📊 [Live Tableau dashboard](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/CustomerIntelligenceDashboard_17948621753550/ChurnRiskActionPlan) · 📓 [Code & write-up](https://github.com/Abuabrar09/Customer-Analytics-Predictive-Intelligence)
